@@ -18,10 +18,6 @@ Welcome to our awesome ecommerce website! Browse through our vast collection of 
 
 🌐 HTML5, CSS3, and JavaScript - Frontend development
 
-## License 📝
-
-This project is licensed under the MIT License. .
-
 ## Contact Us 📧
 
 Have any questions, suggestions, or feedback? Feel free to reach out me at karnsneha2003@gmail.com. I would love to hear from you!
