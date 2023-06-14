@@ -1,4 +1,3 @@
-# E-Commerce-Website
 # Awesome Ecommerce Website 🛍️
 Welcome to our awesome ecommerce website! Browse through our vast collection of products and enjoy a seamless shopping experience. 🎉
 
